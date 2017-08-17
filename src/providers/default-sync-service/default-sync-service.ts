@@ -6,6 +6,11 @@ declare var LZMA : any;
 export class DefaultSyncServiceProvider {
   constructor() {
     var config = {
+      apiKey: "#FIREBASE_API_KEY#",
+      authDomain: "#STORAGE#.firebaseapp.com",
+      databaseURL: "https://#STORAGE#.firebaseio.com",
+      storageBucket: "#STORAGE#.appspot.com",
+      messagingSenderId: "#MESSAGING_ID#"
     };
     firebase.initializeApp(config);
   }//ctor
