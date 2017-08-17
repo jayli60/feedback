@@ -1,0 +1,3402 @@
+[
+  {
+    "Members": [
+      {
+        "FirstName": "DAVID",
+        "LastName": "ABEBEFE",
+        "MiddleName": "OLATUNJI"
+      }
+    ],
+    "Address": {
+      "Address1": "5065 ROYAL CREEK LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0370676,
+      "Longitude": -96.7990243
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "HAMED",
+        "LastName": "ABIOYE",
+        "MiddleName": "ABIOLA"
+      }
+    ],
+    "Address": {
+      "Address1": "3820 STONEWAY DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.074547,
+      "Longitude": -96.7667436
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DENNIS",
+        "LastName": "ABRAHAM",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "4677 PARNELL LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0618812,
+      "Longitude": -96.7909667
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "NIGEL",
+        "LastName": "ABRAHAM",
+        "MiddleName": "DENNIS"
+      }
+    ],
+    "Address": {
+      "Address1": "4677 PARNELL LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0618812,
+      "Longitude": -96.7909667
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "EDWARD",
+        "LastName": "ACKLIN",
+        "MiddleName": "ELLIS"
+      }
+    ],
+    "Address": {
+      "Address1": "3612 CANDELARIA DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0430814,
+      "Longitude": -96.7624642
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MYRNA",
+        "LastName": "ACKLIN",
+        "MiddleName": "LEE"
+      }
+    ],
+    "Address": {
+      "Address1": "3612 CANDELARIA DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0430814,
+      "Longitude": -96.7624642
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "KIM",
+        "LastName": "ADAMS",
+        "MiddleName": "GOODE"
+      }
+    ],
+    "Address": {
+      "Address1": "2516 HICKORY RIDGE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0361297,
+      "Longitude": -96.8345542
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BEVERLY",
+        "LastName": "ADKINS",
+        "MiddleName": "JEAN"
+      }
+    ],
+    "Address": {
+      "Address1": "2000 WILLOW LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0255213,
+      "Longitude": -96.687873
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MOHAMMAD",
+        "LastName": "ADLOUNI",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3116 HOFFMAN DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0727751,
+      "Longitude": -96.7517258
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "OMAR",
+        "LastName": "AHMED",
+        "MiddleName": "Y"
+      }
+    ],
+    "Address": {
+      "Address1": "3801 W SPRING CREEK PKWY #313",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0585669,
+      "Longitude": -96.767308
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SABEEHA",
+        "LastName": "AHMED",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "4324 PEARL CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0840787,
+      "Longitude": -96.7770405
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "RITA",
+        "LastName": "AKHIGBE",
+        "MiddleName": "E"
+      }
+    ],
+    "Address": {
+      "Address1": "3500 E PARK BLVD #2203",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0301091,
+      "Longitude": -96.6675109
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MITCHELL",
+        "LastName": "ALBERTS",
+        "MiddleName": "ERIC"
+      }
+    ],
+    "Address": {
+      "Address1": "1320 WINDY MEADOW DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0552294,
+      "Longitude": -96.7176655
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ROBIN",
+        "LastName": "ALBRITTON",
+        "MiddleName": "MARLEEN"
+      }
+    ],
+    "Address": {
+      "Address1": "1505 ESTRELLA DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.01725,
+      "Longitude": -96.6568766
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "NEAL",
+        "LastName": "ALEXANDROWICZ",
+        "MiddleName": "DAVID"
+      }
+    ],
+    "Address": {
+      "Address1": "1404 TIMBER RIDGE DR",
+      "City": "ALLEN",
+      "State": "TX",
+      "ZipCode": "75002",
+      "Latitude": 33.1195938,
+      "Longitude": -96.6386903
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MILLEE",
+        "LastName": "ALLEN",
+        "MiddleName": "L"
+      }
+    ],
+    "Address": {
+      "Address1": "3105 DIBRELL DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0525579,
+      "Longitude": -96.7526131
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JACK",
+        "LastName": "ALLENBERG",
+        "MiddleName": "DONALD"
+      }
+    ],
+    "Address": {
+      "Address1": "1516 FARINGDON DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0301764,
+      "Longitude": -96.7238546
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MAN",
+        "LastName": "ALLOJU",
+        "MiddleName": "MOHAN"
+      }
+    ],
+    "Address": {
+      "Address1": "2144 ARGYLE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0550312,
+      "Longitude": -96.7364062
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "PEGGY",
+        "LastName": "ALLOJU",
+        "MiddleName": "SUE"
+      }
+    ],
+    "Address": {
+      "Address1": "2144 ARGYLE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0550312,
+      "Longitude": -96.7364062
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MATTHEW",
+        "LastName": "ALMETER",
+        "MiddleName": "JOHN"
+      }
+    ],
+    "Address": {
+      "Address1": "4529 BENTLEY DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0468794,
+      "Longitude": -96.7828911
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "RAVI",
+        "LastName": "ALMETER",
+        "MiddleName": "MATTHEW"
+      }
+    ],
+    "Address": {
+      "Address1": "4529 BENTLEY DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0468794,
+      "Longitude": -96.7828911
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JEANINE",
+        "LastName": "ALPERT",
+        "MiddleName": "D"
+      }
+    ],
+    "Address": {
+      "Address1": "3441 SHEFFIELD CIR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0334952,
+      "Longitude": -96.7586949
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARIA",
+        "LastName": "ALVAREZ",
+        "MiddleName": "DOLORES"
+      }
+    ],
+    "Address": {
+      "Address1": "3156 DELEON DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.1093311,
+      "Longitude": -96.7554826
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CARLOS",
+        "LastName": "AMARAL",
+        "MiddleName": "ZARAHI"
+      }
+    ],
+    "Address": {
+      "Address1": "8200 WEISS AVE",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0905007,
+      "Longitude": -96.7649356
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "RYAN",
+        "LastName": "AMARAL",
+        "MiddleName": "ZARAHI"
+      }
+    ],
+    "Address": {
+      "Address1": "8200 WEISS AVE",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0905007,
+      "Longitude": -96.7649356
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARILYN",
+        "LastName": "AMEN",
+        "MiddleName": "MCINTYRE"
+      }
+    ],
+    "Address": {
+      "Address1": "1317 SHETLAND RD",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0187237,
+      "Longitude": -96.8063012
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "HADEEL",
+        "LastName": "AMOUS",
+        "MiddleName": "SAMARA"
+      }
+    ],
+    "Address": {
+      "Address1": "1421 SACRAMENTO TERRACE",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0252726,
+      "Longitude": -96.7213633
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "HONGTAO",
+        "LastName": "AN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "2516 CLADDING DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0324844,
+      "Longitude": -96.7317002
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "EUGENIE",
+        "LastName": "ANDERSON",
+        "MiddleName": "T"
+      }
+    ],
+    "Address": {
+      "Address1": "3628 THERONDUNN CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0482001,
+      "Longitude": -96.7644565
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JOYCE",
+        "LastName": "ANDERSON",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "2908 MARKHAM DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0373548,
+      "Longitude": -96.7585549
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "LAWRENCE",
+        "LastName": "ANDERSON",
+        "MiddleName": "JOHN"
+      }
+    ],
+    "Address": {
+      "Address1": "3221 SAILMAKER LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0637386,
+      "Longitude": -96.7546574
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "PHILIP",
+        "LastName": "ANDERSON",
+        "MiddleName": "ALDEN"
+      }
+    ],
+    "Address": {
+      "Address1": "4595 W SPRING CREEK PKWY #2926",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.05788,
+      "Longitude": -96.786606
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "REBECCA",
+        "LastName": "ANDERSON",
+        "MiddleName": "HUGHES"
+      }
+    ],
+    "Address": {
+      "Address1": "2720 CASCADE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0964824,
+      "Longitude": -96.7461543
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CHRISTINA",
+        "LastName": "ANDREA",
+        "MiddleName": "M"
+      }
+    ],
+    "Address": {
+      "Address1": "5508 LINMORE LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0478454,
+      "Longitude": -96.8107144
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "KELSEY",
+        "LastName": "ANDRIOT",
+        "MiddleName": "NICOLE"
+      }
+    ],
+    "Address": {
+      "Address1": "1121 PARKVIEW LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0328028,
+      "Longitude": -96.7179308
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "RAVI",
+        "LastName": "APPAN",
+        "MiddleName": "GOPALAN"
+      }
+    ],
+    "Address": {
+      "Address1": "6009 MARTINIQUE ST",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0578063,
+      "Longitude": -96.8153769
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JIMMIE",
+        "LastName": "ARBOGAST",
+        "MiddleName": "WAYNE"
+      }
+    ],
+    "Address": {
+      "Address1": "865 BOWIE DR",
+      "City": "LAVON",
+      "State": "TX",
+      "ZipCode": "75166",
+      "Latitude": 33.0246961,
+      "Longitude": -96.4525132
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BEVERLY",
+        "LastName": "ARLEDGE",
+        "MiddleName": "PAINE"
+      }
+    ],
+    "Address": {
+      "Address1": "5705 YEARY RD",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0497856,
+      "Longitude": -96.8164108
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CRAIG",
+        "LastName": "ARLEDGE",
+        "MiddleName": "ROTH"
+      }
+    ],
+    "Address": {
+      "Address1": "5705 YEARY RD",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0497856,
+      "Longitude": -96.8164108
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARGARET",
+        "LastName": "ARMSTRONG",
+        "MiddleName": "MCDANIEL"
+      }
+    ],
+    "Address": {
+      "Address1": "4613 BROOK MEADOW LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.021136,
+      "Longitude": -96.787984
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARION",
+        "LastName": "ARMSTRONG",
+        "MiddleName": "H"
+      }
+    ],
+    "Address": {
+      "Address1": "4613 BROOK MEADOW LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.021136,
+      "Longitude": -96.787984
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ANGELA",
+        "LastName": "ARRINGTON",
+        "MiddleName": "PAIGE"
+      }
+    ],
+    "Address": {
+      "Address1": "5725 CAVENDER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0410281,
+      "Longitude": -96.8165885
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JOAN",
+        "LastName": "ASCUE",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "4592 PENBROOK CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0739261,
+      "Longitude": -96.7861507
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "OZELL",
+        "LastName": "ASCUE",
+        "MiddleName": "TEMPLE"
+      }
+    ],
+    "Address": {
+      "Address1": "4592 PENBROOK CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0739261,
+      "Longitude": -96.7861507
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JUDITH",
+        "LastName": "ASEL",
+        "MiddleName": "ANNE"
+      }
+    ],
+    "Address": {
+      "Address1": "3117 WINCHESTER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0326917,
+      "Longitude": -96.7547248
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "KENNETH",
+        "LastName": "AST",
+        "MiddleName": "NEIL"
+      }
+    ],
+    "Address": {
+      "Address1": "1328 KESSER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0808478,
+      "Longitude": -96.7174759
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BETH",
+        "LastName": "ATKINS",
+        "MiddleName": "DANDY"
+      }
+    ],
+    "Address": {
+      "Address1": "3320 PHAETON CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0536914,
+      "Longitude": -96.7566724
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ANN",
+        "LastName": "BACCHUS",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "5704 RIVER ROCK LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0549353,
+      "Longitude": -96.8175341
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "FAZAL",
+        "LastName": "BACCHUS",
+        "MiddleName": "MAHMOUD ALLI"
+      }
+    ],
+    "Address": {
+      "Address1": "5704 RIVER ROCK LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0549353,
+      "Longitude": -96.8175341
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "HERMAN",
+        "LastName": "BADILLO",
+        "MiddleName": "LOUIS"
+      }
+    ],
+    "Address": {
+      "Address1": "2720 ZOELLER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.1012374,
+      "Longitude": -96.7459198
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ANN",
+        "LastName": "BADMUS",
+        "MiddleName": "MASSEY"
+      }
+    ],
+    "Address": {
+      "Address1": "5104 EDGEWATER CT",
+      "City": "PARKER",
+      "State": "TX",
+      "ZipCode": "75094",
+      "Latitude": 33.0249276,
+      "Longitude": -96.6339176
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JANE",
+        "LastName": "BAEDKE",
+        "MiddleName": "LOUISE"
+      }
+    ],
+    "Address": {
+      "Address1": "3509 SANDY TRAIL LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0557615,
+      "Longitude": -96.7614167
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CLARENCE",
+        "LastName": "BAILEY",
+        "MiddleName": "RAY"
+      }
+    ],
+    "Address": {
+      "Address1": "4640 HEDGCOXE RD #427",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.083883,
+      "Longitude": -96.792705
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JOHN",
+        "LastName": "BAILEY",
+        "MiddleName": "RICHARD"
+      }
+    ],
+    "Address": {
+      "Address1": "1517 AMAZON DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0202072,
+      "Longitude": -96.7227026
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ROBERT",
+        "LastName": "BAILEY",
+        "MiddleName": "MICHAEL"
+      }
+    ],
+    "Address": {
+      "Address1": "3601 ASARO PL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0746277,
+      "Longitude": -96.76209
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BRADFORD",
+        "LastName": "BAKER",
+        "MiddleName": "LYLE"
+      }
+    ],
+    "Address": {
+      "Address1": "7304 BLAZER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0763036,
+      "Longitude": -96.7424477
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BRYAN",
+        "LastName": "BAKER",
+        "MiddleName": "JAMES"
+      }
+    ],
+    "Address": {
+      "Address1": "821 RUSHMORE LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0427956,
+      "Longitude": -96.7113886
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "GRIZELDA",
+        "LastName": "BAKER",
+        "MiddleName": "CECILIA"
+      }
+    ],
+    "Address": {
+      "Address1": "821 RUSHMORE LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0427956,
+      "Longitude": -96.7113886
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARYNIRMALA",
+        "LastName": "BALASUBRAMANIAM",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3601 BREWSTER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.1057738,
+      "Longitude": -96.7628962
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JULIA",
+        "LastName": "BALDWIN",
+        "MiddleName": "M"
+      }
+    ],
+    "Address": {
+      "Address1": "704 BEAR CREEK DR",
+      "City": "MURPHY",
+      "State": "TX",
+      "ZipCode": "75094",
+      "Latitude": 33.0258836,
+      "Longitude": -96.6201201
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CHRISTOPHER",
+        "LastName": "BANCROFT",
+        "MiddleName": "ROOS"
+      }
+    ],
+    "Address": {
+      "Address1": "1708 FARINGDON DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0303738,
+      "Longitude": -96.7290074
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JACOB",
+        "LastName": "BANNER",
+        "MiddleName": "ANTHONY"
+      }
+    ],
+    "Address": {
+      "Address1": "710 DUDPERKINS ST",
+      "City": "MCKINNEY",
+      "State": "TX",
+      "ZipCode": "75069",
+      "Latitude": 33.1811015,
+      "Longitude": -96.611363
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CONSTANCE",
+        "LastName": "BARA",
+        "MiddleName": "MAZUREK"
+      }
+    ],
+    "Address": {
+      "Address1": "2212 VICKERS DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0383918,
+      "Longitude": -96.7371164
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "LEONARD",
+        "LastName": "BARA",
+        "MiddleName": "JOARD"
+      }
+    ],
+    "Address": {
+      "Address1": "2212 VICKERS DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0383918,
+      "Longitude": -96.7371164
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "LEYKA",
+        "LastName": "BARBOSA",
+        "MiddleName": "MEDILIA"
+      }
+    ],
+    "Address": {
+      "Address1": "2913 REGAL RD",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0219668,
+      "Longitude": -96.7510771
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "KELLY",
+        "LastName": "BARDEN",
+        "MiddleName": "JEAN"
+      }
+    ],
+    "Address": {
+      "Address1": "7200 FAMILY FARM RD",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0760544,
+      "Longitude": -96.7893034
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DOROTHY",
+        "LastName": "BARNEBEY",
+        "MiddleName": "JUNE"
+      }
+    ],
+    "Address": {
+      "Address1": "4612 PENBROOK CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0739339,
+      "Longitude": -96.7873969
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MALCOLM",
+        "LastName": "BARNEBEY",
+        "MiddleName": "RICHARD"
+      }
+    ],
+    "Address": {
+      "Address1": "4612 PENBROOK CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0739339,
+      "Longitude": -96.7873969
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SHERRY",
+        "LastName": "BARNUM",
+        "MiddleName": "JEAN"
+      }
+    ],
+    "Address": {
+      "Address1": "3604 LYNBROOK DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0184922,
+      "Longitude": -96.7615897
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "LYDA",
+        "LastName": "BARO",
+        "MiddleName": "MARIA"
+      }
+    ],
+    "Address": {
+      "Address1": "1309 AUBURN PL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0179066,
+      "Longitude": -96.8014331
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ROBERT",
+        "LastName": "BARO",
+        "MiddleName": "ARISTIDES"
+      }
+    ],
+    "Address": {
+      "Address1": "1309 AUBURN PL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0179066,
+      "Longitude": -96.8014331
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "FRED",
+        "LastName": "BARON",
+        "MiddleName": "MORRIS"
+      }
+    ],
+    "Address": {
+      "Address1": "1713 BRAZOS TRL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0211167,
+      "Longitude": -96.7260751
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CARRIE",
+        "LastName": "BARRON",
+        "MiddleName": "LYDIA"
+      }
+    ],
+    "Address": {
+      "Address1": "4020 KITE MEADOW DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0470638,
+      "Longitude": -96.65178
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CONNOR",
+        "LastName": "BARRON",
+        "MiddleName": "NATHANIEL"
+      }
+    ],
+    "Address": {
+      "Address1": "4020 KITE MEADOW DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0470638,
+      "Longitude": -96.65178
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "LYNN",
+        "LastName": "BARTELL",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "5604 GLENBROOK CIR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.024029,
+      "Longitude": -96.8153271
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DORINE",
+        "LastName": "BARTO",
+        "MiddleName": "LOUISE"
+      }
+    ],
+    "Address": {
+      "Address1": "4733 RIDGEDALE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.081379,
+      "Longitude": -96.7939602
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "WILLIAM",
+        "LastName": "BARTO",
+        "MiddleName": "ANTHONY"
+      }
+    ],
+    "Address": {
+      "Address1": "4733 RIDGEDALE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.081379,
+      "Longitude": -96.7939602
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "OTTO",
+        "LastName": "BARTSCH",
+        "MiddleName": "HEINI"
+      }
+    ],
+    "Address": {
+      "Address1": "3903 CARRIZO DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0364436,
+      "Longitude": -96.6551041
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BRIDGIT",
+        "LastName": "BASEL",
+        "MiddleName": "MARIE"
+      }
+    ],
+    "Address": {
+      "Address1": "3133 CARROLL CIR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0659875,
+      "Longitude": -96.7543149
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JOYCE",
+        "LastName": "BAUMBACH",
+        "MiddleName": "ELYSE"
+      }
+    ],
+    "Address": {
+      "Address1": "7308 DECOY CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0764577,
+      "Longitude": -96.7482247
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DOROTHY",
+        "LastName": "BAUME",
+        "MiddleName": "JANE"
+      }
+    ],
+    "Address": {
+      "Address1": "3437 SHEFFIELD CIR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0332226,
+      "Longitude": -96.7587122
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SAMANTHA",
+        "LastName": "BAY",
+        "MiddleName": "MICHELLE"
+      }
+    ],
+    "Address": {
+      "Address1": "2420 RAINTREE CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0313355,
+      "Longitude": -96.6797432
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "INGRID",
+        "LastName": "BAYAS-PALET",
+        "MiddleName": "L"
+      }
+    ],
+    "Address": {
+      "Address1": "6556 COPPERFIELD LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0640151,
+      "Longitude": -96.7493908
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ELAINE",
+        "LastName": "BEALKE",
+        "MiddleName": "ANN"
+      }
+    ],
+    "Address": {
+      "Address1": "4809 RIDGEDALE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.08137,
+      "Longitude": -96.7943658
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARGARET",
+        "LastName": "BEARDSLEE",
+        "MiddleName": "SUE"
+      }
+    ],
+    "Address": {
+      "Address1": "1432 CUMBERLAND TRL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0639623,
+      "Longitude": -96.7210891
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DEBRA",
+        "LastName": "BECKHAM",
+        "MiddleName": "KAY"
+      }
+    ],
+    "Address": {
+      "Address1": "2321 STACIA DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0922189,
+      "Longitude": -96.7365696
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "GARRY",
+        "LastName": "BECKHAM",
+        "MiddleName": "M"
+      }
+    ],
+    "Address": {
+      "Address1": "2321 STACIA DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0922189,
+      "Longitude": -96.7365696
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ALAN",
+        "LastName": "BECKLEY",
+        "MiddleName": "WILLIAM"
+      }
+    ],
+    "Address": {
+      "Address1": "937 LOMBARDY DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0435504,
+      "Longitude": -96.7152623
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ASHOK",
+        "LastName": "BEESAM",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3800 BREITON LN",
+      "City": "RICHARDSON",
+      "State": "TX",
+      "ZipCode": "75082",
+      "Latitude": 33.003718,
+      "Longitude": -96.6414286
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "TRICIA",
+        "LastName": "BELAIRE",
+        "MiddleName": "MARIE"
+      }
+    ],
+    "Address": {
+      "Address1": "2521 COLESHIRE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0173816,
+      "Longitude": -96.7424795
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DAVID",
+        "LastName": "BELL",
+        "MiddleName": "GERALD"
+      }
+    ],
+    "Address": {
+      "Address1": "5601 RISBOROUGH DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0548972,
+      "Longitude": -96.8129555
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ROBERT",
+        "LastName": "BELL",
+        "MiddleName": "JAMES"
+      }
+    ],
+    "Address": {
+      "Address1": "5301 W SPRING CREEK PKWY #1014",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0596203,
+      "Longitude": -96.80772
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MOUSAAB",
+        "LastName": "BELLAOUAR",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3908 HARLINGTON LN",
+      "City": "RICHARDSON",
+      "State": "TX",
+      "ZipCode": "75082",
+      "Latitude": 32.9918085,
+      "Longitude": -96.6497957
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CLAY",
+        "LastName": "BELLEW",
+        "MiddleName": "JEFFERSON"
+      }
+    ],
+    "Address": {
+      "Address1": "9004 AZINGER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.1015693,
+      "Longitude": -96.7423635
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SUSAN",
+        "LastName": "BELLEW",
+        "MiddleName": "RENAE"
+      }
+    ],
+    "Address": {
+      "Address1": "9004 AZINGER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.1015693,
+      "Longitude": -96.7423635
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MADISON",
+        "LastName": "BENDER",
+        "MiddleName": "BROOKE"
+      }
+    ],
+    "Address": {
+      "Address1": "4616 BUSH DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0424248,
+      "Longitude": -96.7872488
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MELISSA",
+        "LastName": "BENDER",
+        "MiddleName": "ANN"
+      }
+    ],
+    "Address": {
+      "Address1": "4616 BUSH DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0424248,
+      "Longitude": -96.7872488
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BARRY",
+        "LastName": "BENTON",
+        "MiddleName": "MILTON"
+      }
+    ],
+    "Address": {
+      "Address1": "5205 TEDDINGTON PARK DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0545133,
+      "Longitude": -96.7652356
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DENNIS",
+        "LastName": "BERAN",
+        "MiddleName": "KEVIN"
+      }
+    ],
+    "Address": {
+      "Address1": "752 FOREST BEND DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0754846,
+      "Longitude": -96.702809
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "RUTH",
+        "LastName": "BERNHARDT",
+        "MiddleName": "BOONE"
+      }
+    ],
+    "Address": {
+      "Address1": "3212 DOVER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0305275,
+      "Longitude": -96.756234
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "EVELYN",
+        "LastName": "BERRY",
+        "MiddleName": "JOHNSON"
+      }
+    ],
+    "Address": {
+      "Address1": "3213 WRANGLER RD",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0404915,
+      "Longitude": -96.6787436
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARY",
+        "LastName": "BERTKE",
+        "MiddleName": "MALONE"
+      }
+    ],
+    "Address": {
+      "Address1": "1804 FELIX DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0370098,
+      "Longitude": -96.6881567
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MEGAN",
+        "LastName": "BESOZZI",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "112 BRIDLEGATE DR",
+      "City": "MCKINNEY",
+      "State": "TX",
+      "ZipCode": "75069",
+      "Latitude": 33.1864232,
+      "Longitude": -96.6195255
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ANIMA",
+        "LastName": "BHATTACHARYA",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3208 OSCEOLA DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0406952,
+      "Longitude": -96.6873453
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SHEHZAD",
+        "LastName": "BHAYANI",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3537 SUMMERFIELD DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0466098,
+      "Longitude": -96.6762628
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "EMERY",
+        "LastName": "BIGELOW",
+        "MiddleName": "DICKENSON"
+      }
+    ],
+    "Address": {
+      "Address1": "2504 LA VIDA PL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0547193,
+      "Longitude": -96.7428397
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DONALD",
+        "LastName": "BILLINGS",
+        "MiddleName": "ARTHUR"
+      }
+    ],
+    "Address": {
+      "Address1": "2704 ARBORCOVE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0121087,
+      "Longitude": -96.746268
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JACKI",
+        "LastName": "BILLINGS",
+        "MiddleName": "GLENN"
+      }
+    ],
+    "Address": {
+      "Address1": "4516 HUNTWICK DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.056775,
+      "Longitude": -96.7819585
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "NADJA",
+        "LastName": "BILLINGS",
+        "MiddleName": "KLIMOFF"
+      }
+    ],
+    "Address": {
+      "Address1": "3524 GARY DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0681208,
+      "Longitude": -96.7621933
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARK",
+        "LastName": "BINA",
+        "MiddleName": "FRANCIS"
+      }
+    ],
+    "Address": {
+      "Address1": "4518 SYCAMORE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.093769,
+      "Longitude": -96.785371
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JAMES",
+        "LastName": "BLACK",
+        "MiddleName": "RONALD"
+      }
+    ],
+    "Address": {
+      "Address1": "3312 TEAKWOOD LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0371378,
+      "Longitude": -96.7570934
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "LINDA",
+        "LastName": "BLUITT",
+        "MiddleName": "ANN"
+      }
+    ],
+    "Address": {
+      "Address1": "3204 BANDOLINO LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.03993,
+      "Longitude": -96.7573063
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CLAY",
+        "LastName": "BOATRIGHT",
+        "MiddleName": "KENDRICK"
+      }
+    ],
+    "Address": {
+      "Address1": "7217 SAGE MEADOW WAY",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0754562,
+      "Longitude": -96.7749285
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "STEVEN",
+        "LastName": "BODE",
+        "MiddleName": "THOMAS"
+      }
+    ],
+    "Address": {
+      "Address1": "1701 SACRAMENTO TERRACE",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0253176,
+      "Longitude": -96.7252324
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "GUIDO",
+        "LastName": "BOGGIONI",
+        "MiddleName": "JOSEPH"
+      }
+    ],
+    "Address": {
+      "Address1": "1408 DRAKE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0184327,
+      "Longitude": -96.7366265
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DANNY",
+        "LastName": "BOLCH",
+        "MiddleName": "FRANKLIN"
+      }
+    ],
+    "Address": {
+      "Address1": "2611 LONESOME DOVE",
+      "City": "FARMERSVILLE",
+      "State": "TX",
+      "ZipCode": "75442",
+      "Latitude": 33.123214,
+      "Longitude": -96.43441
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CONNIE",
+        "LastName": "BONNETTE",
+        "MiddleName": "MIRANDA"
+      }
+    ],
+    "Address": {
+      "Address1": "4348 LOTTIE LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0277771,
+      "Longitude": -96.6440553
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JAMES",
+        "LastName": "BORCHERT",
+        "MiddleName": "E"
+      }
+    ],
+    "Address": {
+      "Address1": "2000 BILOXI CIR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0130183,
+      "Longitude": -96.7318897
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ALAN",
+        "LastName": "BORG",
+        "MiddleName": "CHAD"
+      }
+    ],
+    "Address": {
+      "Address1": "2444 SKY HARBOR DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0815651,
+      "Longitude": -96.7433778
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SHARON",
+        "LastName": "BORGNE",
+        "MiddleName": "BENNETT"
+      }
+    ],
+    "Address": {
+      "Address1": "2512 DELMAR DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0160854,
+      "Longitude": -96.742007
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "RANAVIR",
+        "LastName": "BOSE",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "6509 HIDDEN CREEK CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0626906,
+      "Longitude": -96.8419304
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SARMILA",
+        "LastName": "BOSE",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "6509 HIDDEN CREEK CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0626906,
+      "Longitude": -96.8419304
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "GLENNA",
+        "LastName": "BOWENS",
+        "MiddleName": "HUGHLEY"
+      }
+    ],
+    "Address": {
+      "Address1": "3304 TARKIO RD",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0404536,
+      "Longitude": -96.6913436
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "STANLEY",
+        "LastName": "BOWLIN",
+        "MiddleName": "WILLIAM"
+      }
+    ],
+    "Address": {
+      "Address1": "5617 LINDSEY DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0522775,
+      "Longitude": -96.8138322
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "TIM",
+        "LastName": "BOWLING",
+        "MiddleName": "ALLEN"
+      }
+    ],
+    "Address": {
+      "Address1": "3513 LOUIS DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0677095,
+      "Longitude": -96.7614487
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CAROLYN",
+        "LastName": "BOYD",
+        "MiddleName": "FUNK"
+      }
+    ],
+    "Address": {
+      "Address1": "1716 LAKE SIDE LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0469002,
+      "Longitude": -96.7285527
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JACK",
+        "LastName": "BOYD",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "1716 LAKE SIDE LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0469002,
+      "Longitude": -96.7285527
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BECKY",
+        "LastName": "BRADSHAW",
+        "MiddleName": "JEAN"
+      }
+    ],
+    "Address": {
+      "Address1": "3417 STEVEN DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0570551,
+      "Longitude": -96.7595759
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BRIAN",
+        "LastName": "BRADSHAW",
+        "MiddleName": "DAVID"
+      }
+    ],
+    "Address": {
+      "Address1": "3417 STEVEN DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0570551,
+      "Longitude": -96.7595759
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CECIL",
+        "LastName": "BRADSHAW",
+        "MiddleName": "W"
+      }
+    ],
+    "Address": {
+      "Address1": "6308 WALLING LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.03903,
+      "Longitude": -96.8373132
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SEAN",
+        "LastName": "BRITT",
+        "MiddleName": "GEOFFREY"
+      }
+    ],
+    "Address": {
+      "Address1": "1805 CORTEZ DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0223778,
+      "Longitude": -96.6564686
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ALMA",
+        "LastName": "BROOKS",
+        "MiddleName": "E"
+      }
+    ],
+    "Address": {
+      "Address1": "4032 BANDERA DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0251495,
+      "Longitude": -96.6511842
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CODY",
+        "LastName": "BROOKS",
+        "MiddleName": "BRYANT"
+      }
+    ],
+    "Address": {
+      "Address1": "4504 ATLANTA DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0261254,
+      "Longitude": -96.7835938
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "GENEVIEVE",
+        "LastName": "BROOKS",
+        "MiddleName": "FAUST"
+      }
+    ],
+    "Address": {
+      "Address1": "4236 MC ALICE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0486859,
+      "Longitude": -96.775448
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "GERALD",
+        "LastName": "BROOKS",
+        "MiddleName": "EARL"
+      }
+    ],
+    "Address": {
+      "Address1": "4236 MC ALICE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0486859,
+      "Longitude": -96.775448
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CATHY",
+        "LastName": "BROWN",
+        "MiddleName": "PALMER"
+      }
+    ],
+    "Address": {
+      "Address1": "4116 WHIPPOORWILL LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0259713,
+      "Longitude": -96.7741991
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DERRICK",
+        "LastName": "BROWN",
+        "MiddleName": "LEE"
+      }
+    ],
+    "Address": {
+      "Address1": "7301 ALMA DR #1436",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0739191,
+      "Longitude": -96.7120084
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "GARY",
+        "LastName": "BROWN",
+        "MiddleName": "EDWARD"
+      }
+    ],
+    "Address": {
+      "Address1": "3412 MICHAEL DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0697726,
+      "Longitude": -96.7587742
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JEROME",
+        "LastName": "BROWN",
+        "MiddleName": "ROGER"
+      }
+    ],
+    "Address": {
+      "Address1": "4116 WHIPPOORWILL LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0259713,
+      "Longitude": -96.7741991
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "KEVIN",
+        "LastName": "BROWN",
+        "MiddleName": "PAUL"
+      }
+    ],
+    "Address": {
+      "Address1": "5745 BOZEMAN DR #8358",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0826083,
+      "Longitude": -96.8194622
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MELINDA",
+        "LastName": "BROWN",
+        "MiddleName": "MERLENE"
+      }
+    ],
+    "Address": {
+      "Address1": "3424 GARNER LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0436499,
+      "Longitude": -96.7201835
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "PAUL",
+        "LastName": "BROWN",
+        "MiddleName": "THOMAS"
+      }
+    ],
+    "Address": {
+      "Address1": "8448 GRAND CANYON DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0937888,
+      "Longitude": -96.7529581
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "TERRY",
+        "LastName": "BROWN",
+        "MiddleName": "BOLDING"
+      }
+    ],
+    "Address": {
+      "Address1": "3412 MICHAEL DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0697726,
+      "Longitude": -96.7587742
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "WILLIAM",
+        "LastName": "BROWNSON",
+        "MiddleName": "JOSEPH"
+      }
+    ],
+    "Address": {
+      "Address1": "1409 WHITEHALL DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0509229,
+      "Longitude": -96.7188538
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JOHN",
+        "LastName": "BRUECKMAN",
+        "MiddleName": "C"
+      }
+    ],
+    "Address": {
+      "Address1": "4593 PENBROOK CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.074448,
+      "Longitude": -96.7861384
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "STACY",
+        "LastName": "BURDETTE",
+        "MiddleName": "BEE"
+      }
+    ],
+    "Address": {
+      "Address1": "3008 CROSS BEND RD",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0488076,
+      "Longitude": -96.7498495
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "EARNEST",
+        "LastName": "BURKE",
+        "MiddleName": "RICHARD"
+      }
+    ],
+    "Address": {
+      "Address1": "2004 BRABANT DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0773243,
+      "Longitude": -96.7315624
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SHERRY",
+        "LastName": "BURKE",
+        "MiddleName": "LUNDY"
+      }
+    ],
+    "Address": {
+      "Address1": "3024 SILVER SPRINGS LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0883448,
+      "Longitude": -96.7509005
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "GAYLAN",
+        "LastName": "BURKET",
+        "MiddleName": "LEIGH"
+      }
+    ],
+    "Address": {
+      "Address1": "3901 SUNDEW CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0499318,
+      "Longitude": -96.7852058
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "STEPHEN",
+        "LastName": "BURKET",
+        "MiddleName": "RANDALL"
+      }
+    ],
+    "Address": {
+      "Address1": "3901 SUNDEW CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0499318,
+      "Longitude": -96.7852058
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "HAROLD",
+        "LastName": "BURKS",
+        "MiddleName": "J"
+      }
+    ],
+    "Address": {
+      "Address1": "1521 HILLSIDE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0212161,
+      "Longitude": -96.6801018
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DORIS",
+        "LastName": "BURNS",
+        "MiddleName": "WARD"
+      }
+    ],
+    "Address": {
+      "Address1": "2709 PEPPERTREE PL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0340139,
+      "Longitude": -96.6763209
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DENISE",
+        "LastName": "BUTTERLY",
+        "MiddleName": "MARIE"
+      }
+    ],
+    "Address": {
+      "Address1": "2720 FAXON DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.1031794,
+      "Longitude": -96.7446495
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "WENDI",
+        "LastName": "BYERLY",
+        "MiddleName": "BROOKS"
+      }
+    ],
+    "Address": {
+      "Address1": "5608 COGNAC ST",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0588147,
+      "Longitude": -96.8166245
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JUDY",
+        "LastName": "CADE",
+        "MiddleName": "ELLA"
+      }
+    ],
+    "Address": {
+      "Address1": "7801 BRUSHFIELD DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0831851,
+      "Longitude": -96.7651863
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "KARI",
+        "LastName": "CALVERT",
+        "MiddleName": "ELIZABETH"
+      }
+    ],
+    "Address": {
+      "Address1": "3809 GALLERIA CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0332456,
+      "Longitude": -96.7663834
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DEBORAH",
+        "LastName": "CALVIN",
+        "MiddleName": "KAREN"
+      }
+    ],
+    "Address": {
+      "Address1": "2332 DAMPTON DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0764572,
+      "Longitude": -96.7415718
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CYNTHIA",
+        "LastName": "CAMPBELL",
+        "MiddleName": "MURILLO"
+      }
+    ],
+    "Address": {
+      "Address1": "1404 GLASTONBURY DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0331349,
+      "Longitude": -96.720948
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "FRANK",
+        "LastName": "CAMPBELL",
+        "MiddleName": "WAYNE"
+      }
+    ],
+    "Address": {
+      "Address1": "3936 SAGAMORE HILL CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0793065,
+      "Longitude": -96.7712387
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "WALLACE",
+        "LastName": "CAMPBELL",
+        "MiddleName": "ROSS"
+      }
+    ],
+    "Address": {
+      "Address1": "1108 WESTWOOD DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0150473,
+      "Longitude": -96.724755
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "YUN",
+        "LastName": "CAO",
+        "MiddleName": "ZHANG"
+      }
+    ],
+    "Address": {
+      "Address1": "4313 STATEN ISLAND DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0762577,
+      "Longitude": -96.7768097
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MICHELE",
+        "LastName": "CAREY-DAVE",
+        "MiddleName": "ANNE"
+      }
+    ],
+    "Address": {
+      "Address1": "4101 MC ALICE CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0495882,
+      "Longitude": -96.7719123
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DOUGLAS",
+        "LastName": "CARGO",
+        "MiddleName": "BRUCE"
+      }
+    ],
+    "Address": {
+      "Address1": "2109 BRIARCREEK LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0274593,
+      "Longitude": -96.6727409
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JOHN",
+        "LastName": "CARLSON",
+        "MiddleName": "HILDING"
+      }
+    ],
+    "Address": {
+      "Address1": "3400 CHANEY LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0436095,
+      "Longitude": -96.7847034
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ROBERT",
+        "LastName": "CARMICHAEL",
+        "MiddleName": "EUGENE"
+      }
+    ],
+    "Address": {
+      "Address1": "2020 LAMBERT CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0280412,
+      "Longitude": -96.7360563
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BOBBYE",
+        "LastName": "CARNES",
+        "MiddleName": "ZALOKAR"
+      }
+    ],
+    "Address": {
+      "Address1": "2112 CANYON VALLEY TRL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0449275,
+      "Longitude": -96.7345148
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CLAYTON",
+        "LastName": "CARNES",
+        "MiddleName": "WILLIAM"
+      }
+    ],
+    "Address": {
+      "Address1": "2112 CANYON VALLEY TRL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0449275,
+      "Longitude": -96.7345148
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DEIDRA",
+        "LastName": "CARPENTER",
+        "MiddleName": "DEANN"
+      }
+    ],
+    "Address": {
+      "Address1": "3800 PEBBLECREEK CT #417",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0537426,
+      "Longitude": -96.7674257
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ROBERT",
+        "LastName": "CARPENTER",
+        "MiddleName": "WAYNE"
+      }
+    ],
+    "Address": {
+      "Address1": "3008 EDWARDS DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.1028911,
+      "Longitude": -96.751424
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "DEBRA",
+        "LastName": "CARR",
+        "MiddleName": "MYERS"
+      }
+    ],
+    "Address": {
+      "Address1": "4577 WATERFORD DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0580674,
+      "Longitude": -96.7847478
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARJORIE",
+        "LastName": "CARRINGTON",
+        "MiddleName": "L"
+      }
+    ],
+    "Address": {
+      "Address1": "2916 KNOLLWOOD DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0249863,
+      "Longitude": -96.7515985
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "THOMAS",
+        "LastName": "CARRINGTON",
+        "MiddleName": "CASEY"
+      }
+    ],
+    "Address": {
+      "Address1": "2916 KNOLLWOOD DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0249863,
+      "Longitude": -96.7515985
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "GINGER",
+        "LastName": "CARTER",
+        "MiddleName": "DELANEY"
+      }
+    ],
+    "Address": {
+      "Address1": "2605 FAIRBOURNE CIR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.033078,
+      "Longitude": -96.7711602
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "RANDAL",
+        "LastName": "CARTER",
+        "MiddleName": "EUGENE"
+      }
+    ],
+    "Address": {
+      "Address1": "1721 EDGEWATER DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0144964,
+      "Longitude": -96.7271683
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SANDRA",
+        "LastName": "CARTMILL",
+        "MiddleName": "MAGNUS"
+      }
+    ],
+    "Address": {
+      "Address1": "5401 BLACKHAWK DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0231333,
+      "Longitude": -96.8070152
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MICHAEL",
+        "LastName": "CASAVANT",
+        "MiddleName": "JOHN"
+      }
+    ],
+    "Address": {
+      "Address1": "2616 PARK CREEK DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0335489,
+      "Longitude": -96.718523
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "LORETTA",
+        "LastName": "CASH",
+        "MiddleName": "JANE"
+      }
+    ],
+    "Address": {
+      "Address1": "3913 BANDERA DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0277135,
+      "Longitude": -96.6543523
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JOHANNA",
+        "LastName": "CASTANEDA",
+        "MiddleName": "XIMENA"
+      }
+    ],
+    "Address": {
+      "Address1": "3845 ELGIN DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0970734,
+      "Longitude": -96.7664168
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "HENRY",
+        "LastName": "CASTRO",
+        "MiddleName": "VALDEZ"
+      }
+    ],
+    "Address": {
+      "Address1": "3121 FOXHOLLOW DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0693651,
+      "Longitude": -96.7527394
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MICHAEL",
+        "LastName": "CAVENEE",
+        "MiddleName": "ROBERT"
+      }
+    ],
+    "Address": {
+      "Address1": "5900 BAYWATER DR #603",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0542962,
+      "Longitude": -96.7990784
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MARY",
+        "LastName": "CAWTHON",
+        "MiddleName": "DUTCHER"
+      }
+    ],
+    "Address": {
+      "Address1": "4653 COURTYARD TRL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0727559,
+      "Longitude": -96.7897618
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ELLEN",
+        "LastName": "CAWTHORN",
+        "MiddleName": "MARIE"
+      }
+    ],
+    "Address": {
+      "Address1": "1301 ALLEGHENY TRL",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0599651,
+      "Longitude": -96.716263
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CARL",
+        "LastName": "CERRATO",
+        "MiddleName": "LEO"
+      }
+    ],
+    "Address": {
+      "Address1": "3408 GARY DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75023",
+      "Latitude": 33.0680723,
+      "Longitude": -96.7586624
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ABEY",
+        "LastName": "CHACKO",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3504 FLOWING WAY",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0599616,
+      "Longitude": -96.6639595
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "NICOLE",
+        "LastName": "CHADWICK",
+        "MiddleName": "HELENE"
+      }
+    ],
+    "Address": {
+      "Address1": "2501 OHIO DR #622",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.031554,
+      "Longitude": -96.791143
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MEI",
+        "LastName": "CHAI",
+        "MiddleName": "YOON"
+      }
+    ],
+    "Address": {
+      "Address1": "1700 AMELIA CT #413",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.0241993,
+      "Longitude": -96.7654306
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "STEVEN",
+        "LastName": "CHANG",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "4605 PALM VALLEY DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0840476,
+      "Longitude": -96.7876902
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JAMES",
+        "LastName": "CHAO",
+        "MiddleName": "WEI"
+      }
+    ],
+    "Address": {
+      "Address1": "4525 CHESTERWOOD DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0344176,
+      "Longitude": -96.785636
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ROSE",
+        "LastName": "CHAVEZ",
+        "MiddleName": "FLORES"
+      }
+    ],
+    "Address": {
+      "Address1": "3116 HOPI CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75074",
+      "Latitude": 33.0399405,
+      "Longitude": -96.6859048
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "BI",
+        "LastName": "CHEN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3132 FREEDOM LN",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.08292,
+      "Longitude": -96.752885
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CHING-TAI",
+        "LastName": "CHEN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "4125 NEW FOREST DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0365286,
+      "Longitude": -96.7741532
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "CINDY",
+        "LastName": "CHEN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3705 MORNINGSIDE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0489971,
+      "Longitude": -96.8387588
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "HUIPING",
+        "LastName": "CHEN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "2437 HUNTERS RUN DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0981357,
+      "Longitude": -96.7386938
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "JIAN",
+        "LastName": "CHEN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3404 LEIGH CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0740491,
+      "Longitude": -96.7593196
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "LILIN",
+        "LastName": "CHEN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "1304 CHESAPEAKE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75093",
+      "Latitude": 33.0176385,
+      "Longitude": -96.7995333
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "MAN-PIN",
+        "LastName": "CHEN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "2604 KELSEY CT",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75075",
+      "Latitude": 33.012124,
+      "Longitude": -96.743713
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "QIANG",
+        "LastName": "CHEN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "3924 PILOT DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0889232,
+      "Longitude": -96.7706208
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "ROY",
+        "LastName": "CHEN",
+        "MiddleName": "W"
+      }
+    ],
+    "Address": {
+      "Address1": "3033 SAWTOOTH DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.0929255,
+      "Longitude": -96.7502893
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "SAMUEL",
+        "LastName": "CHEN",
+        "MiddleName": "GIAJUEN"
+      }
+    ],
+    "Address": {
+      "Address1": "4516 POSTBRIDGE DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75024",
+      "Latitude": 33.0597073,
+      "Longitude": -96.7806213
+    }
+  },
+  {
+    "Members": [
+      {
+        "FirstName": "YAO",
+        "LastName": "CHEN",
+        "MiddleName": ""
+      }
+    ],
+    "Address": {
+      "Address1": "7800 SARAGOSA CREEK DR",
+      "City": "PLANO",
+      "State": "TX",
+      "ZipCode": "75025",
+      "Latitude": 33.083889,
+      "Longitude": -96.7571873
+    }
+  }
+]
