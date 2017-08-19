@@ -11,6 +11,8 @@ import { ListPage } from '../pages/list/list';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
+import { Geolocation } from '@ionic-native/geolocation';
+
 import { AppGlobalServiceProvider } from '../providers/app-global-service/app-global-service';
 import { DefaultSyncServiceProvider } from '../providers/default-sync-service/default-sync-service';
 import { FeedbackDataServiceProvider } from '../providers/feedback-data-service/feedback-data-service';
@@ -40,6 +42,7 @@ import { FeedbackDataServiceProvider } from '../providers/feedback-data-service/
   providers: [
     StatusBar,
     SplashScreen,
+    Geolocation,
     {provide: ErrorHandler, useClass: IonicErrorHandler},
     AppGlobalServiceProvider,
     DefaultSyncServiceProvider,
