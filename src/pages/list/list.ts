@@ -15,16 +15,19 @@ export class ListPage {
     , public navParams: NavParams
     , public appService : AppGlobalServiceProvider
     ) {
-  
-    this.icons = ['flask', 'wifi', 'beer', 'football', 'basketball', 'paper-plane',
-    'american-football', 'boat', 'bluetooth', 'build'];
   }
 
   private setItems(list : IHousehold[]) : void {
     this.items = [];
     for (let i = 0; i < list.length ; i++) {
-      this.items.push({ household : list[i] , icon : "" });
+      this.items.push({ household : list[i] , icon : "person" });
     }
+  }
+
+  private doRefresh(refresher){
+    setTimeout(() => {
+      refresher.complete();
+    }, 2000);
   }
 
   ionViewDidEnter(){

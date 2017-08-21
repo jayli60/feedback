@@ -8,14 +8,18 @@
 </ion-header>
 
 <ion-content>
-  
+  <ion-refresher (ionRefresh)="doRefresh($event)">
+    <ion-refresher-content></ion-refresher-content>
+  </ion-refresher>
+
   <ion-list>
-    <button ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
-      <ion-icon [name]="item.icon" item-left></ion-icon>
-      {{item.household.Address.Address1}}
-      <div class="item-note" item-right>
-        {{item.household.Address.Distance | number: '1.2' }} Miles
+    <button class="list-item-small" ion-item *ngFor="let item of items" (click)="itemTapped($event, item)">
+      <!-- <ion-icon class="list-item-icon" [name]="item.icon" item-left></ion-icon> -->
+      {{item.household.Address.Address1}}, {{item.household.Address.City}}, {{item.household.Address.State}} {{item.household.Address.ZipCode}}
+      <div class="list-item-small" item-right>
+        {{item.household.Address.Distance | number: '1.1-1' }} Miles
       </div>
+      <div class="list-item-main">{{ item.household.Members[0].FirstName }} {{ item.household.Members[0].LastName }}</div>
     </button>
   </ion-list>
 </ion-content>
