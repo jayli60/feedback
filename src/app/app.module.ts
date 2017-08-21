@@ -8,6 +8,7 @@ import { MdInputModule, MdButtonModule, MdCheckboxModule, MdRadioModule } from '
 import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { ListPage } from '../pages/list/list';
+import { MapPage } from '../pages/map/map';
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -21,7 +22,8 @@ import { FeedbackDataServiceProvider } from '../providers/feedback-data-service/
   declarations: [
     MyApp,
     HomePage,
-    ListPage
+    ListPage,
+    MapPage
   ],
   imports: [
     BrowserModule,
@@ -37,7 +39,8 @@ import { FeedbackDataServiceProvider } from '../providers/feedback-data-service/
   entryComponents: [
     MyApp,
     HomePage,
-    ListPage
+    ListPage,
+    MapPage
   ],
   providers: [
     StatusBar,
