@@ -5,7 +5,6 @@ import { FeedbackDataServiceProvider } from '../../providers/feedback-data-servi
 import { IHousehold } from '../../app/entities/household';
 import { IQuestion } from '../../app/entities/question';
 
-@IonicPage()
 @Component({
   selector: 'page-question',
   templateUrl: 'question.html',

@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { ActionSheetController, NavController, NavParams } from 'ionic-angular';
 import { AppGlobalServiceProvider } from '../../providers/app-global-service/app-global-service';
 import { IHousehold } from '../../app/entities/household';
-import { QuestionPage } from "../question/question";
+import { QuestionPage } from "../question/questionPage";
 
 @Component({
   selector: 'page-list',
