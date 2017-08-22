@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { ActionSheetController, NavController, NavParams } from 'ionic-angular';
 import { AppGlobalServiceProvider } from '../../providers/app-global-service/app-global-service';
-import { IHousehold, Household } from '../../app/entities/household';
+import { IHousehold } from '../../app/entities/household';
 
 @Component({
   selector: 'page-list',
@@ -25,7 +25,7 @@ export class ListPage {
     }
   }
 
-  private doRefresh(refresher){
+  public doRefresh(refresher){
     setTimeout(() => {
       refresher.complete();
     }, 2000);
@@ -36,12 +36,12 @@ export class ListPage {
     this.setItems(list);
   }
 
-  private itemTapped(event, item) : void {
+  public itemTapped(event, item) : void {
     this.selectedItem = item;
     this.doAction();
   }
 
-  private doAction() : void {
+  public doAction() : void {
     let address : string = this.selectedItem.household.Address.Address1;
 
     let actionSheet = this.actionSheetCtrl.create({
@@ -69,7 +69,7 @@ export class ListPage {
     actionSheet.present();
   } //doAction
 
-  private startQuestion(household : IHousehold) {
+  public startQuestion(household : IHousehold) {
     alert(household.id);
   }
 

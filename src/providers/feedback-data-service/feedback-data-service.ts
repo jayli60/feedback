@@ -48,7 +48,6 @@ export class FeedbackDataServiceProvider {
     let lng = currentLocation.coords.longitude;
 
     _.forEach(data, function(house : IHousehold) { 
-      house.id = Utility.newGuid();
       house.Address.Distance = Utility.calculateDistance(lat, lng, house.Address.Latitude, house.Address.Longitude);
     });
     return data;
