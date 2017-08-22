@@ -1,10 +1,12 @@
 import { Injectable } from '@angular/core';
 import { IHousehold, Household } from '../../app/entities/household';
+import { IQuestion } from '../../app/entities/question';
 
 @Injectable()
 export class AppGlobalServiceProvider {
 
   private currentHouseholdList : Household[] = [];
+  
   private currentHousehold : Household = new Household();
   private currentLocation : any;
 

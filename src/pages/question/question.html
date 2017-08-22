@@ -6,5 +6,33 @@
 
 
 <ion-content padding>
+  <button class="list-item-small" ion-item *ngIf="household">
+    {{household.Address.Address1}}, {{household.Address.City}}, {{household.Address.State}} {{household.Address.ZipCode}}
+    <div class="list-item-main">{{ household.Members[0].FirstName }} {{ household.Members[0].LastName }}</div>
+  </button>
+
+  <ion-list>
+    <ion-item class="question-item" *ngFor="let question of questionList">
+      <div class="question-label">{{ question.LabelText }}</div>
+
+      <!-- Simple -->
+      <ng-container *ngIf="question.Type == 'Simple'">
+        <md-radio-group [(ngModel)]="question.Answer">
+          <md-radio-button *ngFor="let option of question.AnswerOptions" [value]="option">
+            {{ option }}
+          </md-radio-button>
+        </md-radio-group>   
+      </ng-container>
+
+      <!-- Multiple -->
+      <ng-container *ngIf="question.Type == 'Multiple'">
+        <md-checkbox *ngFor="let option of question.AnswerOptions;let i = index" 
+          [value]="option" [(ngModel)]="question.AnswerChecked[i]">
+          {{ option }}
+        </md-checkbox>
+      </ng-container>
+
+    </ion-item>        
+  </ion-list>
 
 </ion-content>

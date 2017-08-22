@@ -1,12 +1,9 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-
-/**
- * Generated class for the QuestionPage page.
- *
- * See http://ionicframework.com/docs/components/#navigation for more info
- * on Ionic pages and navigation.
- */
+import { AppGlobalServiceProvider } from '../../providers/app-global-service/app-global-service';
+import { FeedbackDataServiceProvider } from '../../providers/feedback-data-service/feedback-data-service';
+import { IHousehold } from '../../app/entities/household';
+import { IQuestion } from '../../app/entities/question';
 
 @IonicPage()
 @Component({
@@ -15,11 +12,25 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class QuestionPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  //bindable properties
+  public questionList : IQuestion[];
+  public household : IHousehold;
+
+  constructor(public navCtrl: NavController, public navParams: NavParams
+    ,public appService : AppGlobalServiceProvider
+    ,public feedbackDataService : FeedbackDataServiceProvider
+  ) {
   }
 
-  ionViewDidLoad() {
-    console.log('ionViewDidLoad QuestionPage');
+  ionViewDidEnter(){
+    let household = this.appService.getCurrentHousehold();
+    let questionList = this.feedbackDataService.getQuestions();
+    this.setViewModel(household, questionList);
+  }
+
+  public setViewModel(household : IHousehold, questionList : IQuestion[]){
+    this.questionList = questionList;
+    this.household = household;
   }
 
 }

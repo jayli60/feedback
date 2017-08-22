@@ -71,6 +71,7 @@ export class ListPage {
   } //doAction
 
   public startQuestion(household : IHousehold) {
+    this.appService.setCurrentHousehold(household);
     this.navCtrl.push(QuestionPage);
   }
 
