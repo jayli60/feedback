@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { ActionSheetController, NavController, NavParams } from 'ionic-angular';
 import { AppGlobalServiceProvider } from '../../providers/app-global-service/app-global-service';
 import { IHousehold } from '../../app/entities/household';
+import { QuestionPage } from "../question/question";
 
 @Component({
   selector: 'page-list',
@@ -70,7 +71,7 @@ export class ListPage {
   } //doAction
 
   public startQuestion(household : IHousehold) {
-    alert(household.id);
+    this.navCtrl.push(QuestionPage);
   }
 
 

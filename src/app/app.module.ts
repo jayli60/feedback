@@ -9,6 +9,7 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { ListPage } from '../pages/list/list';
 import { MapPage } from '../pages/map/map';
+import { QuestionPage } from "../pages/question/question";
 
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
@@ -23,7 +24,8 @@ import { FeedbackDataServiceProvider } from '../providers/feedback-data-service/
     MyApp,
     HomePage,
     ListPage,
-    MapPage
+    MapPage,
+    QuestionPage
   ],
   imports: [
     BrowserModule,
@@ -40,7 +42,8 @@ import { FeedbackDataServiceProvider } from '../providers/feedback-data-service/
     MyApp,
     HomePage,
     ListPage,
-    MapPage
+    MapPage,
+    QuestionPage
   ],
   providers: [
     StatusBar,
