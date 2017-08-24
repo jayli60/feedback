@@ -8,14 +8,9 @@
 </ion-header>
 
 <ion-content padding>
-  <md-input-container>
-      <input mdInput placeholder="Filter" value="value">
+  <md-input-container style="width : 50%;">
+      <input mdInput placeholder="Group Number" value="">
   </md-input-container>
-  <button ion-button (click)="getList()">Get List</button>
-
-  <!-- <button ion-button secondary menuToggle>Toggle Menu</button> -->
-
-  <button ion-button secondary (click)="scanQRCode()">Scan QR Code</button>
-
+  <button ion-button full (click)="getList()">Get List</button>
 
 </ion-content>

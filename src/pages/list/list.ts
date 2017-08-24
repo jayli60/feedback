@@ -56,14 +56,12 @@ export class ListPage {
         },{
           text: 'Mark On Map',
           handler: () => {
-            console.log('Map');
+            this.markHousehold(this.selectedItem.household);
           }
         },{
           text: 'Cancel',
           role: 'cancel',
-          handler: () => {
-            console.log('Cancel clicked');
-          }
+          handler: () => {   }       
         }
       ]
     });
@@ -74,6 +72,10 @@ export class ListPage {
     this.appService.setCurrentHousehold(household);
     this.navCtrl.push(QuestionPage);
   }
+
+  public markHousehold(household : IHousehold) {
+    this.appService.setCurrentHousehold(household);
+  }  
 
 
 }
