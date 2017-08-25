@@ -13,4 +13,12 @@
   </md-input-container>
   <button ion-button full (click)="getList()">Get List</button>
 
+  <ion-label>Existing Feedbacks:</ion-label>
+
+  <ion-list>
+    <ion-item class="list-item-main" *ngFor="let item of feedbacks">
+      {{item.household.Address.Address1}}, {{item.household.Address.City}}, {{item.household.Address.State}} {{item.household.Address.ZipCode}}
+    </ion-item>
+  </ion-list>
+
 </ion-content>
