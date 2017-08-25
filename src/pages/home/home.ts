@@ -22,6 +22,7 @@ export class HomePage {
   public getList() : void {
     let list = this.feedbackDataService.getHouseholdData("");
     this.appService.setCurrentHouseholdList(list);
+    this.feedbackDataService.getFeedbackData();
     this.setFeedbacks();
   }
 
@@ -37,10 +38,12 @@ export class HomePage {
     for (let i = 0; i < list.length ; i++) {
       this.feedbacks.push({ household : list[i].Household, icon : "person" });
     }    
+
   }
 
   ionViewDidEnter() {
     this.setLocation();
+    this.feedbackDataService.getFeedbackData();
   }
 
 

@@ -53,6 +53,10 @@ export class FeedbackDataServiceProvider {
     return data;
   }
 
+  public getFeedbackData() : void {
+    this.syncService.getFeedbackList();
+  }
+
   public getQuestions() : IQuestion[] {
     let result:  IQuestion[] = [];
     

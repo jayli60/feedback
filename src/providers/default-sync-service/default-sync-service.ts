@@ -20,13 +20,6 @@ export class DefaultSyncServiceProvider {
       // messagingSenderId: "#MESSAGING_ID#"
     };
     firebase.initializeApp(config);
-
-    var self = this;
-    var databaseRef = firebase.database().ref(this.SYNC_PATH);
-    databaseRef.on('value', function(snapshot) {
-      self.updateAppBuffer(snapshot.toJSON());
-    });
-
   }//ctor
 
   private updateAppBuffer(data : any) : void {
@@ -37,6 +30,14 @@ export class DefaultSyncServiceProvider {
       feedbacks.push(JSON.parse(element.value));
     });
     this.appService.setCurrentFeedbackList(feedbacks);
+  }
+
+  public getFeedbackList() : void {
+    var self = this;
+    var databaseRef = firebase.database().ref(this.SYNC_PATH);
+    databaseRef.once('value', function(snapshot) {
+      self.updateAppBuffer(snapshot.toJSON());
+    });
   }
 
   public setValue(key : string, value : string, compress : boolean = false) : void {
